@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi there, I'm Koubai 👋
 
-<!--
-**redplum701/redplum701** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile.
 
-Here are some ideas to get you started:
+I'm curious by nature and enjoy making thoughtful things for the web. This is where I share projects, experiments, and ideas as they take shape.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### A little about me
+
+- 🌱 I like learning by making and exploring new ideas.
+- 🛠️ I enjoy building small, useful, and carefully made web projects.
+- 🌸 I believe the little details can make a big difference.
+
+### Find me around the web
+
+- 🌐 [Visit my website](https://redplum701.github.io)
+- 💻 [Explore my repositories](https://github.com/redplum701?tab=repositories)
+
+Thanks for stopping by!
