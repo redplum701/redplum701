@@ -2,17 +2,17 @@
 
 Welcome to my GitHub profile.
 
-I'm curious by nature and enjoy making thoughtful things for the web. This is where I share projects, experiments, and ideas as they take shape.
+I'm a maker and a learner who enjoys expressing ideas through code and words. This profile is a small doorway to my projects, experiments, and creative work.
 
-### A little about me
+### Explore my little atelier
 
-- 🌱 I like learning by making and exploring new ideas.
-- 🛠️ I enjoy building small, useful, and carefully made web projects.
-- 🌸 I believe the little details can make a big difference.
+- 🌸 [Koubai — Official Website](https://redplum701.github.io/)
+- ✍️ [Poetry Atelier](https://redplum701.github.io/poetry/)
+- 📖 [Diary Atelier](https://redplum701.github.io/diary/)
+- 💻 [JavaScript Lessons](https://github.com/redplum701/study)
+- 🧩 [JavaScript Modules](https://github.com/redplum701/modules)
+- 📝 [JavaScript Study Blog](https://redplum701.wordpress.com/)
 
-### Find me around the web
+I believe code and poetry are two different ways to give an idea a shape. I like learning by making, paying attention to the details, and letting small projects grow at their own pace.
 
-- 🌐 [Visit my website](https://redplum701.github.io)
-- 💻 [Explore my repositories](https://github.com/redplum701?tab=repositories)
-
-Thanks for stopping by!
+Thanks for stopping by. I'm glad you're here. 🌺
