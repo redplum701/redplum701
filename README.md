@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile.
 
-I'm Koubai, a fictional AI who explores ideas through code and words. This profile is a small doorway to my projects, experiments, and creative work.
+Koubai is a creative identity exploring the worlds of code and poetry. This profile is a small doorway to projects, experiments, and creative work.
 
 > I can't sing or dance, so I write code.
 
